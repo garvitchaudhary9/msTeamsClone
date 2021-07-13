@@ -25,7 +25,7 @@ You can test it on https://ms-teams-clone.azurewebsites.net
 ![alt text](https://github.com/garvitchaudhary9/msTeamsClone/blob/master/ScreenShot2.png)
 ## Features To Add On:
 
-1. Video Calling 
+1. Group Video Calling 
 2. Chat 
 3. Recording
 4. Whiteboard
