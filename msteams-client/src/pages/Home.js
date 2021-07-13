@@ -25,6 +25,7 @@ function Home() {
   const connectionRef = useRef();
 
   useEffect(() => {
+    //to get the video of the user 1 by using getUsermedia()
     navigator.mediaDevices
       .getUserMedia({ video: true, audio: true })
       .then((stream) => {
@@ -43,7 +44,7 @@ function Home() {
       setCallerSignal(data.signal);
     });
   }, []);
-
+  //created new user (user 2) to call
   const callUser = (id) => {
     const peer = new Peer({
       initiator: true,
@@ -86,7 +87,7 @@ function Home() {
     peer.signal(callerSignal);
     connectionRef.current = peer;
   };
-
+ //function to handle when the other user end call
   const leaveCall = () => {
     setCallEnded(true);
     connectionRef.current.destroy();
