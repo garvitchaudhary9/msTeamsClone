@@ -1,15 +1,16 @@
 # MSTeamsClone
 
-##Current Features
+## Current Features
+
 ### 1-1 Video Chat App
 
-##Tech Stack Used :
+## Tech Stack Used :
 NodeJS ,ReactJS ,Socket.io and webRTC using simple peer library.
 
-##Deployed Using Azure:
+## Deployed Using Azure:
 You can test it on https://ms-teams-clone.azurewebsites.net 
 
-##How to operate on the web Application
+## How to operate on the web Application
 
 1. Click the link mentioned above.
 2. Allow your camera and microphone for the application
@@ -19,7 +20,7 @@ You can test it on https://ms-teams-clone.azurewebsites.net
 6. Ask the person to enter his/her name and then paste in the id and press call button.
 7. Enjoy video calling with your friends and family!!
 
-##Features To Add On:
+## Features To Add On:
 
 1. Video Calling 
 2. Chat 
