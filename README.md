@@ -16,12 +16,13 @@ You can test it on https://ms-teams-clone.azurewebsites.net
 
 1. Click the link mentioned above.
 2. Allow your camera and microphone for the application
+![alt text]()
 3. Enter Your Name.
 4. Click on the Share ID Button .
 5. Now a random id has been copied to your clipboard . Share it to the other person via whatsapp or other messaging service .
 6. Ask the person to enter his/her name and then paste in the id and press call button.
 7. Enjoy video calling with your friends and family!!
-
+![alt text]()
 ## Features To Add On:
 
 1. Video Calling 
