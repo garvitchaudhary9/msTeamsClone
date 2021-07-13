@@ -1,1 +1,1 @@
-## Client side of the project 
+## Client side of MS Teams Clone
