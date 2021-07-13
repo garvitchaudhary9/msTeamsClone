@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/591c12c4-9266-4ce2-ad0b-640424daf624/resourceGroups/ms-teams-clone-server-rg/providers/Microsoft.Web/sites/ms-teams-clone-server",
+    "appService.deploySubpath": "."
+}
