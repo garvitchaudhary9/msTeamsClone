@@ -1,5 +1,7 @@
 # MSTeamsClone
 
+This app makes it easy to group up with people you want to meet. 
+
 ## Current Features
 
 ### 1-1 Video Chat App
