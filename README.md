@@ -22,7 +22,7 @@ You can test it on https://ms-teams-clone.azurewebsites.net
 5. Now a random id has been copied to your clipboard . Share it to the other person via whatsapp or other messaging service .
 6. Ask the person to enter his/her name and then paste in the id and press call button.
 7. Enjoy video calling with your friends and family!!
-![alt text]()
+![alt text](https://github.com/garvitchaudhary9/msTeamsClone/blob/master/ScreenShot2.png)
 ## Features To Add On:
 
 1. Video Calling 
