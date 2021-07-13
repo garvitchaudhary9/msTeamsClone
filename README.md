@@ -1,1 +1,1 @@
-# msTeamsClone
+# MSTeamsClone
