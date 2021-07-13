@@ -16,7 +16,7 @@ You can test it on https://ms-teams-clone.azurewebsites.net
 
 1. Click the link mentioned above.
 2. Allow your camera and microphone for the application
-![alt text]()
+![alt text](https://github.com/garvitchaudhary9/msTeamsClone/blob/master/ScreenShot1.png)
 3. Enter Your Name.
 4. Click on the Share ID Button .
 5. Now a random id has been copied to your clipboard . Share it to the other person via whatsapp or other messaging service .
